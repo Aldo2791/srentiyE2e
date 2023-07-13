@@ -14,7 +14,13 @@ nvm verify
 SE ADJUNTA CAPTURAS ARHCIVO .doc
 
 
-
+EJERCICIO:
+Realizar una prueba funcional automatizada (Prueba E2E) de un flujo de compra en la página
+http://opencart.abstracta.us/ que incluya:
+• Agregar dos productos al carrito
+• Visualizar el carrito
+• Completar el “Checkout” como invitado: “Guest Checkout”
+• Finalizar la compra hasta la confirmación: “Your order has been placed!”
 
 README
 SERENITY WEB TRAINING
