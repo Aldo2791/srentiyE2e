@@ -1,3 +1,21 @@
+REQUISITOS
+
+WIINDWOWS 
+
+IDE VSCODE
+
+JDK 11
+JRE 1.8
+MAVEN 3.8.6
+
+Comando para relaizar la pruena y levantar srenity
+nvm verify
+
+SE ADJUNTA CAPTURAS ARHCIVO .doc
+
+
+
+
 README
 SERENITY WEB TRAINING
 
@@ -28,3 +46,5 @@ CHROME PREFERENCES:
 
 https://johnfergusonsmart.com/configuring-chromedriver-easily-with-serenity-bdd/
 https://chromium.googlesource.com/chromium/src/+/master/chrome/common/pref_names.cc
+
+
