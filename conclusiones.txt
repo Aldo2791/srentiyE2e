@@ -1,0 +1,8 @@
+- Pare este ejercicio se realizó sistemáticamente utilizando tecnología como Serenity que es una librería que permiten
+  trabajar con elementos Web, donde se deben contar con competencias en Automatización QA en el lenguaje de programación 
+  Java o Python, identificando el caso de prueba donde la aplicación web funcione con normalidad, al comprar 2 articulos en el carrito, 
+  complrtar el check out como invitado y finalizar la compra, con lo cual se asegura una buena calidad en el desarrollo de software.
+
+- El desarrollo de la prueba se implementó mediante pruebas automatizadas de software bajo la metodología de trabajo BDD, haciendo 
+  uso de la librería de pruebas Serenity. Todo el desarrollo de las pruebas se realizó en el "Visual Studio Code",
+  se diseñó planes de pruebas que garantizaron la calidad y las funcionalidades especificadas en los criterios de aceptación de la prueba.
